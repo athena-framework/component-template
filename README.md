@@ -24,7 +24,7 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
    5.1 Alter [CI](./.github/workflows/ci.yml) and [Deployment](./.github/workflows/deployment.yml) scrips as needed.  Such as adding custom `crystal docs` command or adding an `Install Dependencies` step.
 
 Delete from here up
-# COMPONENT_NAME
+# NAMESPACE_NAME
 
 [![Build Status](https://img.shields.io/github/workflow/status/athena-framework/COMPONENT_NAME/CI)](https://github.com/athena-framework/COMPONENT_NAME/actions)
 [![Latest release](https://img.shields.io/github/release/athena-framework/COMPONENT_NAME.svg?style=flat-square)](https://github.com/athena-framework/COMPONENT_NAME/releases)
