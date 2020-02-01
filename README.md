@@ -5,7 +5,7 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 **NOTE:** This repo assumes the component will be in the `athena-framework` org.  If it is to be used outside of the org, be sure to update URLs accordingly.
 
 1. Find/replace `COMPONENT_NAME` with the name of the component.  This is used as the shard's name.  E.x. `logger`.
-  1.1 Be sure to rename the file in `./src` as well.
+  1.1 Be sure to rename the file in `./src`, and `./spec` as well.
 
 2. Replace `NAMESPACE_NAME` with the name of the component's namespace.  Documentation for this component will be grouped under this. E.x. `Logger`.
 
@@ -26,8 +26,8 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 Delete from here up
 # NAMESPACE_NAME
 
-[![Build Status](https://img.shields.io/github/workflow/status/athena-framework/COMPONENT_NAME/CI)](https://github.com/athena-framework/COMPONENT_NAME/actions)
-[![Latest release](https://img.shields.io/github/release/athena-framework/COMPONENT_NAME.svg?style=flat-square)](https://github.com/athena-framework/COMPONENT_NAME/releases)
+![CI](https://github.com/athena-framework/COMPONENT_NAME/workflows/CI/badge.svg)
+[![Latest release](https://img.shields.io/github/release/athena-framework/COMPONENT_NAME.svg)](https://github.com/athena-framework/COMPONENT_NAME/releases)
 
 DESCRIPTION
 
