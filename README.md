@@ -26,7 +26,7 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 Delete from here up
 # NAMESPACE_NAME
 
-![CI](https://github.com/athena-framework/COMPONENT_NAME/workflows/CI/badge.svg)
+[![CI](https://github.com/athena-framework/COMPONENT_NAME/workflows/CI/badge.svg)](https://github.com/athena-framework/COMPONENT_NAME/actions?query=workflow%3ACI)
 [![Latest release](https://img.shields.io/github/release/athena-framework/COMPONENT_NAME.svg)](https://github.com/athena-framework/COMPONENT_NAME/releases)
 
 DESCRIPTION
