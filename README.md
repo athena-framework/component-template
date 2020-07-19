@@ -15,7 +15,7 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 
 1. Find/replace `CREATOR_EMAIL` with your desired email
 
-   4.1 Can remove this if you don't wish to expose an email.
+   5.1 Can remove this if you don't wish to expose an email.
 
 1. Find/replace `ALIAS_NAME` with the three letter alias for this component; A + 2 letter shortcut to `NAMESPACE_NAME`.  E.x. `ALG`.
 
@@ -23,7 +23,7 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 
 1. Define a repo secret `ACCESS_TOKEN` for CI deploys to work.
 
-   5.1 Alter [CI](./.github/workflows/ci.yml) and [Deployment](./.github/workflows/deployment.yml) scrips as needed.  Such as adding custom `crystal docs` command or adding an `Install Dependencies` step.
+   8.1 Alter [CI](./.github/workflows/ci.yml) and [Deployment](./.github/workflows/deployment.yml) scrips as needed.  Such as adding custom `crystal docs` command or adding an `Install Dependencies` step.
 
 Delete from here up
 # NAMESPACE_NAME
