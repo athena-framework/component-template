@@ -21,10 +21,6 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 
 1. Find/replace `DESCRIPTION` with a short description of what the component does.
 
-1. Define a repo secret `ACCESS_TOKEN` for CI deploys to work.
-
-   8.1 Alter [CI](./.github/workflows/ci.yml) and [Deployment](./.github/workflows/deployment.yml) scrips as needed.  Such as adding custom `crystal docs` command or adding an `Install Dependencies` step.
-
 Delete from here up
 # NAMESPACE_NAME
 
