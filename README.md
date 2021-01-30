@@ -44,7 +44,8 @@ dependencies:
 
 ## Documentation
 
-Everything is documented in the [API Docs](https://athena-framework.github.io/COMPONENT_NAME/Athena/NAMESPACE_NAME.html).
+If using the component on its own, checkout the [API documentation](https://athenaframework.org/NAMESPACE_NAME).
+If using the component as part of Athena, also checkout the [external documentation](https://athenaframework.org/components/COMPONENT_NAME).
 
 ## Contributing
 
