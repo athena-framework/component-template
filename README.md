@@ -49,12 +49,4 @@ If using the component as part of Athena, also checkout the [external documentat
 
 ## Contributing
 
-1. Fork it (https://github.com/athena-framework/COMPONENT_NAME/fork)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
-
-- [CREATOR_NAME](https://github.com/CREATOR_USERNAME) - creator and maintainer
+[Report issues](https://github.com/athena-framework/athena/issues) and send [Pull Requests](https://github.com/athena-framework/athena/pulls) in the [main Athena repository](https://github.com/athena-framework/athena).
