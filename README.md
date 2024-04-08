@@ -30,23 +30,9 @@ Delete from here up
 
 DESCRIPTION.
 
-## Installation
+## Getting Started
 
-1. Add the dependency to your `shard.yml`:
-
-```yaml
-dependencies:
-  athena-COMPONENT_NAME:
-    github: athena-framework/COMPONENT_NAME
-    version: ~> 0.1.0
-```
-
-2. Run `shards install`
-
-## Documentation
-
-If using the component on its own, checkout the [API documentation](https://athenaframework.org/NAMESPACE_NAME).
-If using the component as part of Athena, also checkout the [external documentation](https://athenaframework.org/components/COMPONENT_NAME).
+Checkout the [API documentation](https://athenaframework.org/NAMESPACE_NAME).
 
 ## Contributing
 
