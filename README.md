@@ -32,7 +32,7 @@ DESCRIPTION.
 
 ## Getting Started
 
-Checkout the [API documentation](https://athenaframework.org/NAMESPACE_NAME).
+Checkout the [Documentation](https://athenaframework.org/NAMESPACE_NAME).
 
 ## Contributing
 
