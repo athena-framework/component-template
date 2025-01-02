@@ -21,6 +21,8 @@ Template repo for creating a new Athena component. Scaffolds the Crystal shard's
 
 1. Find/replace `DESCRIPTION` with a short description of what the component does.
 
+1. Add some initial documentation to `docs/README.md`.
+
 Delete from here up
 # NAMESPACE_NAME
 
